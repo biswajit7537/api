@@ -1,0 +1,13 @@
+end points
+------------------
+1. register
+    --------------------------------------------------
+       - validate the request
+       - authorise the request
+       - check if user is in the database already
+       - model preparation
+       - store in database
+       - generate JWT token
+       - send response
+    --------------------------------------------------
+2. login
